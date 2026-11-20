@@ -27,3 +27,4 @@
 3. **GitHub Pages** avtomatik ishga tushishi uchun Repository → **Settings → Pages → Source: GitHub Actions** ni tanlang.
 4. Yoki **Vercel** / **Netlify** orqali repository'ni tanlab 1 tugma bilan deploy qiling.
 # KINO-PRO
+# KINO-PRO
